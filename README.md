@@ -5,7 +5,7 @@ Setup telegram bot which respond to commands from user.
 
 On telegram app, search @BotFather and click on it to start the conversation.
 
-<img src="/images/bf_search.png" alt="BotFather search" width="400">
+<p align="middle" ><img src="/images/bf_search.png" alt="BotFather search" width="400"></p>
 
 On BotFather chat, type the folowing commands to create a new bot:
 

@@ -32,5 +32,4 @@ On telegram app, search @your_username_bot and click on (your_bot_name) to start
 <p align="middle" ><img src="/images/bot_add.png" alt="Bot add" width="400"></p>
 
 ## Create the bot response script
-We are going to add the script to the web server. The script must be accesible from internet.
-Here the script [qtrezbemwmxwzrqunpsyipfejqjg05bw.php](/src/qtrezbemwmxwzrqunpsyipfejqjg05bw.php)
+We are going to add the [script](/src/qtrezbemwmxwzrqunpsyipfejqjg05bw.php) to the web server. The script must be accesible from internet.

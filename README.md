@@ -30,3 +30,7 @@ Now your bot is created and the token to use the HTTP API is available. In this 
 On telegram app, search @your_username_bot and click on (your_bot_name) to start the conversation.
   
 <p align="middle" ><img src="/images/bot_add.png" alt="Bot add" width="400"></p>
+
+## Create the bot response script
+
+Here the script [qtrezbemwmxwzrqunpsyipfejqjg05bw.php]: /src/qtrezbemwmxwzrqunpsyipfejqjg05bw.php to ss

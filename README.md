@@ -8,6 +8,8 @@ On telegram app, search @BotFather and click on it to start the conversation.
 On BotFather chat, type the folowing commands to create a new bot:
 
     /newbot
+
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
   
 On BotFather chat, type the folowing commands to add a name that you will be able to see in the telegram app:
 

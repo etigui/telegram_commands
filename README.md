@@ -9,7 +9,7 @@ On BotFather chat, type the folowing commands to create a new bot:
 
     /newbot
 
-<img src="/images/bf_search.png" alt="BotFather search" >
+<img src="/images/bf_search.png" alt="BotFather search" width="500">
   
 On BotFather chat, type the folowing commands to add a name that you will be able to see in the telegram app:
 

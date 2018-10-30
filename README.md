@@ -77,7 +77,7 @@ To add webhook you have to know tow thing:
 
 Now everything should works so, let's try the 2 commande (/test and /hi):
 
-<p align="middle" ><img src="/images/bot_test.png" alt="Bot test"></p>
+<p align="middle" ><img src="/images/bot_test.png" alt="Bot test" width="400"></p>
 
 
 

@@ -52,6 +52,4 @@ To add webhook you have to know tow thing:
 
         https://api.telegram.org/bot<token>/setwebhook?url=https://<host_name>/<script_name.php>   
 
-
-
         https://api.telegram.org/bot744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk/setwebhook?url=https://exemple.com/qtrezbemwmxwzrqunpsyipfejqjg05bw.php

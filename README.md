@@ -1,9 +1,9 @@
 # Telegram commands
-Setup telegram bot which respond to commands from user.
+Setup Telegram bot which respond to commands from user.
 
 ## Install bot
 
-On telegram app, search @BotFather and click on it to start the conversation.
+On Telegram app, search @BotFather and click on it to start the conversation.
 
 <p align="middle" ><img src="/images/bf_search.png" alt="BotFather search" width="400"></p>
 
@@ -13,7 +13,7 @@ On BotFather chat, type the folowing commands to create a new bot:
 
 <p align="middle" ><img src="/images/bot_create.png" alt="Bot create" width="400"></p>
   
-On BotFather chat, type the folowing commands to add a name that you will be able to see in the telegram app:
+On BotFather chat, type the folowing commands to add a name that you will be able to see in the Telegram app:
 
     your_bot_name
 
@@ -27,7 +27,7 @@ On BotFather chat, type the folowing commands to add an username (it must ends w
   
 Now your bot is created and the token to use the HTTP API is available. In this case the token is (744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk).
 
-On telegram app, search @your_username_bot and click on (your_bot_name) to start the conversation.
+On Telegram app, search @your_username_bot and click on (your_bot_name) to start the conversation.
   
 <p align="middle" ><img src="/images/bot_add.png" alt="Bot add" width="400"></p>
 

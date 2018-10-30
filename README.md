@@ -32,11 +32,21 @@ On telegram app, search @your_username_bot and click on (your_bot_name) to start
 <p align="middle" ><img src="/images/bot_add.png" alt="Bot add" width="400"></p>
 
 ## Create bot commands
-On BotFather chat, type the folowing commands to create commands:
+On BotFather chat, type the folowing commands to set commands:
+
+<p align="middle" ><img src="/images/bot_create_command.jpg" alt="Bot create command" width="400"></p>
 
 
-  
-<p align="middle" ><img src="/images/bot_add.png" alt="Bot add" width="400"></p>
+On BotFather chat, type the folowing commands to create 2 commands (test and hi):
+    test - send test command
+    hi - send hi command
+
+<p align="middle" ><img src="/images/bot_add_command.jpg" alt="Bot add command" width="400"></p>
+
+
+Now the commande are available in the but chat but they dosent work yet beacause no bot response are setted.
+
+<p align="middle" ><img src="/images/bot_show_command.jpg" alt="Bot show command.jpg" width="400"></p>
 
 ## Create bot response
 
@@ -45,7 +55,7 @@ We are going to add the [script](/src/qtrezbemwmxwzrqunpsyipfejqjg05bw.php) to t
 
 Add it to the root web directors. To protect the script from manual execution, add a long random name to it.
 
-    ├── /
+    ├── exemple.com/
     │   ├── qtrezbemwmxwzrqunpsyipfejqjg05bw.php
 
 ### Create webhook

@@ -47,7 +47,7 @@ On BotFather chat, type the folowing commands to create 2 commands (test and hi)
 <p align="middle" ><img src="/images/bot_add_command.jpg" alt="Bot add command" width="400"></p>
 
 
-Now the commande are available in the but chat but they dosent work yet beacause no bot response are setted.
+Now the commande are available in the chat but they dosent work yet beacause no bot response are setted.
 
 <p align="middle" ><img src="/images/bot_show_command.jpg" alt="Bot show command.jpg" width="400"></p>
 

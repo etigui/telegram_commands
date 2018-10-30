@@ -66,7 +66,7 @@ Basically, in Telegram there are two ways to get messages from users: long polli
 
 <p align="middle" ><img src="/images/webhook.png" alt="Weebhook"></p>
 
-To add webhook you have to know tow thing: 
+To add webhook you have to know 2 thing: 
 - The script url : https://exemple.com/qtrezbemwmxwzrqunpsyipfejqjg05bw.php
 - Your token : 744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk
 

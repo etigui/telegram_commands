@@ -73,4 +73,8 @@ To add webhook you have to know tow thing:
         wget https://api.telegram.org/bot744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk/setwebhook?url=https://exemple.com/qtrezbemwmxwzrqunpsyipfejqjg05bw.php
 
 
-When the webhook
+## Test
+
+Now everything should work so let's try the 2 commande (/test and /hi):
+
+

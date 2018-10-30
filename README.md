@@ -42,6 +42,13 @@ Add it to the root web directors. To protect the script from manual execution, a
     │   ├── qtrezbemwmxwzrqunpsyipfejqjg05bw.php
 
 ### Create webhook
-Basically, In Telegram there are two ways to get messages from users: long polling and webhooks. With long polling, you need to request new messages from the API, and with webhooks you are setting a callback that the Telegram API will call if a new message arrives from a user.
+Basically, in Telegram there are two ways to get messages from users: long polling and webhooks. With long polling, you need to request new messages from the API, and with webhooks you are setting a callback that the Telegram API will call if a new message arrives from a user.
 
 <p align="middle" ><img src="/images/webhook.png" alt="Weebhook"></p>
+
+To add webhook you have to know tow thing: 
+- The script url 
+- Your token
+        https://api.telegram.org/bot<token>/setwebhook?url=https://<host_name>/<script_name.php>
+    
+        https://api.telegram.org/bot744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk/setwebhook?url=https://exemple.com/qtrezbemwmxwzrqunpsyipfejqjg05bw.php

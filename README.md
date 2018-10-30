@@ -1,5 +1,5 @@
 # Telegram commands
-Setup Telegram bot which respond to commands from user. For more information [Telegram doc](https://core.telegram.org/bots/)
+Setup Telegram bot which respond to commands from user. For more information [Telegram doc](https://core.telegram.org/bots/).
 
 ## Install bot
 

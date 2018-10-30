@@ -31,7 +31,14 @@ On telegram app, search @your_username_bot and click on (your_bot_name) to start
   
 <p align="middle" ><img src="/images/bot_add.png" alt="Bot add" width="400"></p>
 
-## Create the bot response
+## Create bot commands
+On BotFather chat, type the folowing commands to create commands:
+
+
+  
+<p align="middle" ><img src="/images/bot_add.png" alt="Bot add" width="400"></p>
+
+## Create bot response
 
 ### Add script
 We are going to add the [script](/src/qtrezbemwmxwzrqunpsyipfejqjg05bw.php) to the web server. The script must be accesible from internet.
@@ -52,4 +59,7 @@ To add webhook you have to know tow thing:
 
         https://api.telegram.org/bot<token>/setwebhook?url=https://<host_name>/<script_name.php>   
 
-        https://api.telegram.org/bot744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk/setwebhook?url=https://exemple.com/qtrezbemwmxwzrqunpsyipfejqjg05bw.php
+        wget https://api.telegram.org/bot744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk/setwebhook?url=https://exemple.com/qtrezbemwmxwzrqunpsyipfejqjg05bw.php
+
+
+When the webhook

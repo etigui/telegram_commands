@@ -2,7 +2,7 @@
 ini_set('error_reporting', E_ALL);
 
 // Set url to send back response message
-$bot_token = "744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk;
+$bot_token = "744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk";
 $website = "https://api.telegram.org/bot{$bot_token}";
 
 // Get message contenant

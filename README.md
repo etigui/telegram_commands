@@ -1,5 +1,5 @@
 # Telegram commands
-Setup Telegram bot which respond to commands from user. For more information [Telegram doc](https://core.telegram.org/bots/).
+Setup Telegram bot which respond to commands from user (PHP). For more information [Telegram doc](https://core.telegram.org/bots/).
 
 ## Install bot
 
@@ -97,3 +97,9 @@ Send message:
 Set webhook:
 
     https://api.telegram.org/bot<token>/setwebhook?url=https://<host_name>/<script_name.php> 
+
+## Ref
+
+[How to use Commands with Telegram Bots](https://www.youtube.com/watch?v=ry6YGBPeuig)
+
+[How to Start a Telegram Bot With PHP](https://code.tutsplus.com/articles/how-to-start-a-telegram-bot-with-php--cms-26329)

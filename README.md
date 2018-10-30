@@ -25,7 +25,9 @@ On BotFather chat, type the folowing commands to add an username (it must ends w
     
 <p align="middle" ><img src="/images/bot_token.png" alt="Bot token" width="400"></p>
   
-Now your bot is created and the token to use the HTTP API is available. In this case the token is (744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk).
+Now your bot is created and the token to use the HTTP API is available. In this case the token is:
+    
+    744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk
 
 On Telegram app, search @your_username_bot and click on (your_bot_name) to start the conversation.
   

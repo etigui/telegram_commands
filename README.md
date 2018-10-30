@@ -38,6 +38,7 @@ On BotFather chat, type the folowing commands to set commands:
 
 
 On BotFather chat, type the folowing commands to create 2 commands (test and hi):
+
     test - send test command
     hi - send hi command
 

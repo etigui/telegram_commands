@@ -103,7 +103,8 @@ Set webhook:
 
     https://api.telegram.org/bot<token>/setwebhook?url=https://<host_name>/<script_name.php> 
     
-Send file/document (PHP)
+Send file/document (PHP)   
+
 [Script send_doc.php](/src/send_doc.php)
 
 ## Ref

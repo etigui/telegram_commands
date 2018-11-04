@@ -107,8 +107,12 @@ Now everything should works so, let's try the 2 commande (/test and /hi):
 
     [Script send_doc.php](/src/send_doc.php)
     
+    <p align="middle" ><img src="/images/bot_send_doc.png" alt="Bot create" width="400"></p>
+    
 6. Send photo less than 20Mo (PHP)   
-    [Script send_photo.php](/src/send_photo.php)
+    [Script send_photo.php](/images/bot_send_photo.png)
+    
+    <p align="middle" ><img src="/images/bot_send_photo.png" alt="Bot create" width="400"></p>
 
 
 ## Ref

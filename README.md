@@ -86,7 +86,7 @@ Now everything should works so, let's try the 2 commande (/test and /hi):
 
 ## Other Telegram API option
 
-Get bot info:
+- Get bot info:
 
     https://api.telegram.org/bot<token>/getme
 

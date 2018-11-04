@@ -90,22 +90,22 @@ Now everything should works so, let's try the 2 commande (/test and /hi):
 
         https://api.telegram.org/bot<token>/getme
 
-Get last messages:
+2. Get last messages:
 
-    https://api.telegram.org/bot<token>/getupdates
+        https://api.telegram.org/bot<token>/getupdates
     
-Send message:
+3. Send message:
 
-    https://api.telegram.org/bot<token>/sendMessage?chat_id=<chat_id>&text=<text>
+        https://api.telegram.org/bot<token>/sendMessage?chat_id=<chat_id>&text=<text>
     
 
-Set webhook:
+4. Set webhook:
 
-    https://api.telegram.org/bot<token>/setwebhook?url=https://<host_name>/<script_name.php> 
+        https://api.telegram.org/bot<token>/setwebhook?url=https://<host_name>/<script_name.php> 
     
-Send file/document (PHP)   
+5. Send file/document (PHP)   
 
-[Script send_doc.php](/src/send_doc.php)
+    [Script send_doc.php](/src/send_doc.php)
 
 ## Ref
 

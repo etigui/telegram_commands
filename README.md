@@ -84,7 +84,7 @@ Now everything should works so, let's try the 2 commande (/test and /hi):
 
 <p align="middle" ><img src="/images/bot_test.png" alt="Bot test" width="400"></p>
 
-## Useful HTTP Telegram API
+## Other Telegram API option
 
 Get bot info:
 
@@ -102,6 +102,9 @@ Send message:
 Set webhook:
 
     https://api.telegram.org/bot<token>/setwebhook?url=https://<host_name>/<script_name.php> 
+    
+Send file/document (PHP)
+[Script send_doc.php](/src/send_doc.php)
 
 ## Ref
 

@@ -102,14 +102,18 @@ Now everything should works so, let's try the 2 commande (/test and /hi):
 4. Set webhook:
 
         https://api.telegram.org/bot<token>/setwebhook?url=https://<host_name>/<script_name.php> 
+        
+5. Get my webhook 
+
+        https://api.telegram.org/bot<token>/getWebhookInfo
     
-5. Send any file/document less than 20Mo (PHP)   
+6. Send any file/document less than 20Mo (PHP)   
 
     [Script send_doc.php](/src/send_doc.php)
     
     <p align="middle" ><img src="/images/bot_send_doc.png" alt="Bot create" width="400"></p>
     
-6. Send photo less than 20Mo (PHP)   
+7. Send photo less than 20Mo (PHP)   
 
     [Script send_photo.php](/src/send_photo.php)
     

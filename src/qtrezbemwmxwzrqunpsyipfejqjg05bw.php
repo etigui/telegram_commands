@@ -31,7 +31,6 @@ switch($message){
 function send_message($chat_id, $message){
 	$data = ['chat_id' => $chat_id, 'text' => ""]; //,'text' => rawurlencode($message)
 	$url = "{$GLOBALS['website']}/sendMessage?".http_build_query($data).$message;
-	echo $url;
 	file_get_contents($url);
 }
 ?>

@@ -1,7 +1,7 @@
 <?php
 
 // Telegram var
-$caption = urlencode("Photo to send !!!");
+$caption = urlencode("File to send !!!");
 $chat_id = "000000000";
 $token = "744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk";
 

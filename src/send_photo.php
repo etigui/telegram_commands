@@ -1,12 +1,15 @@
 <?php
+
 // Telegram var
 $caption = urlencode("Photo to send !!!");
 $chat_id = "000000000";
 $token = "744205053:AAH9GZH1gwNQ_7XZTj_GegpnT4H_ir75fpk";
+
 // File var
 $file_name = "file.txt";
 $file_path = "./directory/{$file_name}";
 $mime_type = mime_content_type($file_path);
+
 // Send file
 $curl = curl_init();
 curl_setopt_array($curl, [
